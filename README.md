@@ -17,6 +17,6 @@
 | u | Goes up a level in the stack |
 | d | Goes down a level in the stack |
 | q | Quits gdb |
-| tui eanble | Enable GDB Text User Interface |
+| tui enable | Enable GDB Text User Interface |
 
 **Refer:** http://www.yolinux.com/TUTORIALS/GDB-Commands.html
